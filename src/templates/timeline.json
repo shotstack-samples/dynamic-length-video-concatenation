@@ -1,0 +1,20 @@
+{
+  "timeline": {
+    "soundtrack": {
+      "src": "https://assets.mixkit.co/music/download/mixkit-serene-view-443.mp3",
+      "effect": "fadeOut"
+    },
+    "tracks": [
+      {
+        "clips": []
+      }
+    ]
+  },
+  "output": {
+    "format": "mp4",
+    "size": {
+      "width": 1280,
+      "height": 720
+    }
+  }
+}
